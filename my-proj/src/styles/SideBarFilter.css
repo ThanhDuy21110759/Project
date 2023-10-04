@@ -1,0 +1,29 @@
+/*-----------Category--------------*/
+.shop-search-filter{
+	background-color: transparent;
+	width: 20%;
+	height: 100%;
+	margin-right: 20px;
+}
+.shop-search-filter a{
+	text-decoration: none;
+	color: black;
+	font-size: 15px;
+}
+.shop-search-filter__header{
+	display: flex;
+	align-items: center;
+	margin: 10px 0px;
+}
+.shop-search-filter__header box-icon{
+	margin-right: 10px;
+}
+.shop-filter-group__header,
+.shop-filter-group__body--items{
+	margin: 10px 0px;
+	margin-left: 5px;
+}
+input[type="checkbox"]{
+	margin-right: 10px;
+	align-items: center;
+}
